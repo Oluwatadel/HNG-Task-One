@@ -7,11 +7,11 @@ namespace User_Registartion.Controllers
 {
     [Route("api/users")]
     [ApiController]
-    public class UserCOntroller : ControllerBase
+    public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
 
-        public UserCOntroller(IUserService userService)
+        public UserController(IUserService userService)
         {
             _userService = userService;
         }
