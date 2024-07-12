@@ -33,7 +33,17 @@ namespace User_Registartion.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserRegRequestModel request)
         {
-           var newUser = await _userService.Register(request);
+            var user = _userService.GetUser(request.Email);
+            if (user != null)
+            {
+                return BadRequest(new
+                {
+                    status = "Duplicate email",
+                    message = "Duplicate Email",
+                    statusCode = 422
+                });
+            }
+            var newUser = await _userService.Register(request);
             if (newUser == null)
             {
                 return BadRequest(new

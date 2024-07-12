@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|c:\\users\\airis technovation\\documents\\programming\\hng\\hng stage 2 task\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|c:\\users\\airis technovation\\documents\\programming\\hng\\hng stage 2 task\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|solutionrelative:controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|c:\\users\\airis technovation\\documents\\programming\\hng\\hng stage 2 task\\controllers\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|solutionrelative:controllers\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|c:\\users\\airis technovation\\documents\\programming\\hng\\hng stage 2 task\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B847FD52-6CC9-49EF-A311-CA1757210CB5}|User Registartion.csproj|c:\\users\\airis technovation\\documents\\programming\\hng\\hng stage 2 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "OrganisationController.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\Controllers\\OrganisationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganisationController.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\Controllers\\OrganisationController.cs",
+              "RelativeToolTip": "Controllers\\OrganisationController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:01:46.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Authentication.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\Controllers\\Authentication.cs",
               "RelativeDocumentMoniker": "Controllers\\Authentication.cs",
               "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\HNG\\HNG Stage 2 Task\\Controllers\\Authentication.cs",
               "RelativeToolTip": "Controllers\\Authentication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwCsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T08:12:58.324Z",
               "EditorCaption": ""
